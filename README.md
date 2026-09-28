@@ -50,6 +50,7 @@ rag_demo/
 ├── Dockerfile
 ├── .env.example
 ├── .gitignore
+├── .gitattributes        # PDF按二进制保存，避免Windows换行转换
 └── .dockerignore
 ```
 
